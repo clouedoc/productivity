@@ -1,0 +1,20 @@
+{
+  "importMap": "import_map.json",
+  "lint": {
+    "rules": {
+      "include": [
+        "explicit-function-return-type",
+        "ban-untagged-todo",
+        "camelcase",
+        "default-param-last",
+        "eqeqeq",
+        "explicit-module-boundary-types",
+        "no-const-assign",
+        "no-eval",
+        "no-external-import",
+        "no-non-null-assertion",
+        "no-throw-literal"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "zod": "https://deno.land/x/zod@v3.19.1/mod.ts",
+    "testing/": "https://deno.land/std@0.167.0/testing/",
+    "uuid": "https://deno.land/std@0.167.0/uuid/mod.ts",
+    "ky": "npm:ky",
+    "sinon": "https://cdn.skypack.dev/sinon?dts",
+    "array-from-async": "npm:array-from-async"
+  }
+}
